@@ -10,7 +10,7 @@ public class MyFirstProgram {
 		System.out.println("Area of the surface = " + area1(a,b) + "mm");
 
 		double c=2;
-		System.out.println("Area of the kubik ="+ area2(c)+ "mm");
+		System.out.println("Area of the kubik = "+ area2(c)+ "mm");
 	}
 	public static void hello(String somebody) {
 
